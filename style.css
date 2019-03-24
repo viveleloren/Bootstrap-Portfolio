@@ -1,0 +1,29 @@
+* {
+    font-family: 'Cinzel Decorative', sans-serif;
+    background-image: url("file:///Users/lorenbrown/Downloads/textured.jpgf");
+    color: black;
+
+
+}
+
+a {
+
+    color: black;
+
+}
+
+section {
+
+    text-align: center;
+}
+
+
+
+
+li {
+   list-style: none;
+    margin: 0 4px;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+  }
